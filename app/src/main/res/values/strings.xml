@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chuck Norris Quotes</string>
+    <string name="reload_button_text">Kick App</string>
+</resources>
